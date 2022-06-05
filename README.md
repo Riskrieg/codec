@@ -10,7 +10,7 @@ Looking for the core Riskrieg repository? Find it [here](https://github.com/Risk
 
 ## About
 
-This repository hosts the code for any and all codecs for that various file types created for Riskrieg.
+This repository hosts the code for any and all codecs for the various file types created for Riskrieg.
 
 ## Download
 [![Maven Central](https://img.shields.io/maven-central/v/com.riskrieg/codec.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22com.riskrieg%22%20AND%20a:%22codec%22)
